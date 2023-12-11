@@ -2,4 +2,6 @@
 
 An application implemented with React Native and React Native Paper technologies, 
 allowing users to save various locations (GPS coordinates) for future reference. 
-The data is stored using the Expo SQLite component. (A school project)
+The data is stored using the Expo SQLite component. (A practice work)
+
+There are few screenshots of application in screenshots folder.
